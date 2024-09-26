@@ -52,7 +52,7 @@ const RoadPage = () => {
           src={CarSVG}
           alt="Car"
           position="absolute"
-          bottom="100px"
+          bottom="10px"
           left="-100px"
           w="100px"
           h="auto"
